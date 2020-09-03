@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
  * @author Wilmer Parra
  */
 public class ProductosBD implements Heladeria{
-    
+    //Liatado de Procesos de la BD
   
     @Override
     public List Listado(){
